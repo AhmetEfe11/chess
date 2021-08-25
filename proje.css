@@ -3,20 +3,32 @@ body{
 }
 
 .ana{
-	width: 100%; height: 2100px;
+	width: 100%; height: 3000px;
 	background-color: #3d3d3d;
 	padding-top: 50px;
 	border: 2px black solid;
 }
 
 .ustkısım{
-	width: 380px; height: 80px;
+	width: 450px; height: 80px;
 	background-color: black;
 	color: white; text-align: center;
-	margin-left: 460px; font-size: 50px;
+	margin-left: 430px; font-size: 50px;
 	padding-top: 20px; 
 	border: 15px white double;
 	border-radius: 45px;
+}
+
+.anamenuler a{
+	width: 200px; height: 30px;
+	background-color: whitesmoke;
+	color: black; text-align: center;
+	border: 1px solid black;
+	border-radius: 	6px;
+	text-decoration: none;
+	margin-top: 50px;
+	display: inline-block;
+	padding-top: 10px;
 }
 
 .anaresim{
@@ -46,33 +58,14 @@ body{
 	margin-bottom: 10px;
 }
 
-.menuler{
-	width: 	28%; height: 300px;
-	border: 1px white solid; 
-	display: inline-block;
-	margin-top: 20px;
-	background-color: black;
-}
-
-.resimler{
-	width: 100%; height: 240px;
-}
-
-.linkler{
-	color: white;
-	font-size: 20px;
-	text-decoration: none;
-	display: inline-block;
-	padding-top:10px;
-}
-
 .son{
 	width: 450px; height: 50px;
-	background-color: #f8c291;
-	color: black; text-align: center;
-	border: 1px black solid;
+	background-color: #C40303;
+	color: white; text-align: center;
+	border: 1px white solid;
 	border-radius: 45px;
 	padding-top: 20px;
-	margin-top: 120px;
+	margin-top: 70px;
 	margin-left: 445px;
 }
+
